@@ -1,0 +1,15 @@
+{
+  "headerText": "About countries",
+  "inputPlaceholder": "Search country...",
+  "sort": "Sort",
+  "ascending": "Ascending",
+  "descending": "Descending",
+  "all-regions": "All Regions",
+  "africa": "Africa",
+  "americas": "Americas",
+  "asia": "Asia",
+  "europe": "Europe",
+  "oceania": "Oceania",
+  "region": "Region",
+  "population": "Population"
+}

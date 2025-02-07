@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+@theme {
+  --color-dark: #212c37;
+  --color-dark-light: #2b3845;
+}
+html, body {
+  background-color: #212c37;
+}
+
+#root {
+  background-color: #f0f0f0;
+  font-family: Arial, sans-serif;
+  height: 100%;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  color: #c8cbce;
+}
